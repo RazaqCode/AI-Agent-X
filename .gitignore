@@ -1,0 +1,13 @@
+# Ignore environment variables
+.env
+server/.env
+client/.env
+
+# Node modules
+node_modules/
+server/node_modules/
+client/node_modules/
+
+# Logs and system files
+*.log
+.DS_Store
